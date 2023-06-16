@@ -1,2 +1,2 @@
-# C-digos-de-Algoritmos
-Armazenamento de códigos da metatéria  de Algoritmo 
+# Bacharelado em Sistemas de Informação
+Armazenamento de códigos e atividades do Curso
